@@ -18,7 +18,7 @@ github: https://github.com/harrisfd/Note-Taker-FDH
 ## Usage
 Deployed Link: https://notetakerfdh.herokuapp.com/
 
-<img src="./Note-Taker-FDH/image/NoteTakerFDH.jpg" alt="JPG of the application"/>
+<img src="../Note-Taker-FDH/image/NoteTakerFDH.jpg" alt="JPG of the application"/>
 
 <img src="./Note-Taker-FDH/image/NoteTakerFDH.jpg" alt="JPG of the application"/>
 
