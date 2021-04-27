@@ -20,7 +20,7 @@ Deployed Link: https://notetakerfdh.herokuapp.com/
 
 <img src="./image/NoteTakerFDH.jpg" alt="JPG of the application"/>
 
-<img src="./image/Samplecreensot.jpg" alt="JPG of the application"/>
+<img src="./image/Samplescreensot.jpg" alt="JPG of the application"/>
 
 <img src="./image/Samplelist.jpg" alt="JPG of the application"/>
 
